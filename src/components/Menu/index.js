@@ -4,7 +4,7 @@ import './Menu.css';
 import Button from '../Button';
 import{Link} from 'react-router-dom'
 
-//import ButtonLink from './componets/ButtonLink';
+// import ButtonLink from './componets/ButtonLink';
 
 function Menu(){
     return(

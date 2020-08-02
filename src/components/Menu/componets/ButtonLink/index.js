@@ -1,7 +1,7 @@
 import React from 'react';
 
 function ButtonLink(props){
-    //props =>{className:"O que for passado, href="/"}
+    // props =>{className:"O que for passado, href="/"}
     
     return(
         <a className={props.className} href={props.href}>
